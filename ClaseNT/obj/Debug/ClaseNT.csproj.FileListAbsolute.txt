@@ -7,3 +7,6 @@ C:\ClaseNT\ClaseNT\obj\Debug\ClaseNT.pdb
 C:\Users\2-09\Downloads\ClaseNT\ClaseNT\bin\Debug\ClaseNT.exe.config
 C:\Users\2-09\Downloads\ClaseNT\ClaseNT\obj\Debug\ClaseNT.exe
 C:\Users\2-09\Downloads\ClaseNT\ClaseNT\obj\Debug\ClaseNT.pdb
+C:\Users\2-09\Downloads\ClaseNT\ClaseNT\bin\Debug\ClaseNT.exe
+C:\Users\2-09\Downloads\ClaseNT\ClaseNT\bin\Debug\ClaseNT.pdb
+C:\Users\2-09\Downloads\ClaseNT\ClaseNT\obj\Debug\ClaseNT.csprojResolveAssemblyReference.cache
