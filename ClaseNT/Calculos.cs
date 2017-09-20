@@ -27,12 +27,12 @@ namespace ClaseNT
             restarNumeros = (short)(restar1 - restar2);
         }
 
-        /*public void multiplicar(short multi1, short multi2)
+        public void multiplicar(short multi1, short multi2)
         {
             multiNumeros = (short)(multi1 * multi2);
         }
 
-        public void dividir(short divi1, short divi2)
+        /*public void dividir(short divi1, short divi2)
         {
             diviNumeros = (short)(divi1 / divi2);
         }*/
@@ -41,8 +41,8 @@ namespace ClaseNT
         {
             Console.WriteLine("Total suma: " + sumarNumeros);
             Console.WriteLine("Total resta: " + restarNumeros);
-            /*Console.WriteLine("Total multiplicación: " + multiNumeros);
-            Console.WriteLine("Total división: " + diviNumeros);*/
+            Console.WriteLine("Total multiplicación: " + multiNumeros);
+            /*Console.WriteLine("Total división: " + diviNumeros);*/
         }
 
     }

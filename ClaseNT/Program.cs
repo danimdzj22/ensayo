@@ -26,8 +26,8 @@ namespace ClaseNT
         
             realizarOperacion.sumar(realizarOperacion.num1, realizarOperacion.num2);
             realizarOperacion.restar(realizarOperacion.num1, realizarOperacion.num2);
-            /*realizarOperacion.multiplicar(realizarOperacion.num1, realizarOperacion.num2);
-            realizarOperacion.dividir(realizarOperacion.num1, realizarOperacion.num2);*/
+            realizarOperacion.multiplicar(realizarOperacion.num1, realizarOperacion.num2);
+            /*realizarOperacion.dividir(realizarOperacion.num1, realizarOperacion.num2);*/
             realizarOperacion.mostrarResultados();
             Console.ReadLine();
 
